@@ -17,7 +17,7 @@
 
 ### My top 10 technologies-
 
-|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/python.png)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/tensorflow.svg)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/gcp.png)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/azure.png)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/c++.png)|
+|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/python.png)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/tensorflow.svg)|![](https://github.com/FaisalHafeez/FaisalHafeez/badges/gcp.png)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/azure.png)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/c++.png)|
 |---|---|---|---|---|
 |![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/android.png)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/javascript.svg)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/node.svg)|![](https://github.com/FaisalHafeez/FaisalHafeez/blob/master/badges/docker.svg)|
 
