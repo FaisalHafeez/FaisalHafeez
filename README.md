@@ -1,4 +1,4 @@
-I am a full stack Developer. I love learing new technology and skills of web, I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+Full stack Developer who loves learing new tech stacks and know more about this world 😸.
 
 <h3>Services & Frameworks I Know & Use</h3>
 
