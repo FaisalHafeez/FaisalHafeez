@@ -1,4 +1,4 @@
-Full stack Developer who loves learing new tech stacks and know more about this world 😸.
+Full stack Developer who loves learning new tech stacks and want to know more about this world 😸.
 
 <h3>Services & Frameworks I Know & Use</h3>
 
