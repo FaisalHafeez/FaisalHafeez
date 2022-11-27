@@ -1,4 +1,7 @@
-Full stack Developer who loves learning new tech stacks and want to know more about this world 😸.
+🛠 I’m currently focusing on Typescript, JavaScript, React, Node, Mongodb, etc 💻.
+👨🏻‍💻 I’m currently persuing Full Stack Development 🚀.
+💬 Ask me about anything! I am happy to help.
+🚌 I wannabe a digital nomad and want to know more about this world 😸.
 
 <h3>Services & Frameworks I Know & Use</h3>
 
@@ -12,7 +15,7 @@ src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&l
 
 <h3>Things I Want To Learn & Things I Am Learning</h3>
 
-<img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/><img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="Premeire Pro" src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%232a0032.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/>
+<img alt="React Native" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img alt="Premeire Pro" src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%232a0032.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/>
 
 <h2> Github Stats </h2>
 <div>
@@ -36,6 +39,3 @@ src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&l
  <a href="https://www.linkedin.com/in/FaisalHafeez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </a>
 
-<h1> For Paid Projects! and Customer Reviews of My Work </h1>
-<a href="https://www.fiverr.com/Faisal_Hafeez" target="_blank"><img alt="Fiverr" src="https://img.shields.io/badge/fiverr%20-%2300b22d.svg?&style=for-the-badge&logo=fiverr&logoColor=white"/></a>
- <a href="https://www.upwork.com/freelancers/~0179e1f640899a903f" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/upwork%20-%2373bb44.svg?&style=for-the-badge&logo=upwork&logoColor=white"/></a>
