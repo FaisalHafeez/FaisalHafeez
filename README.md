@@ -73,15 +73,9 @@ I build:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=FaisalHafeez&column=7&margin-w=15&margin-h=15&theme=onedark" alt="Trophy" />
+  <a href="https://git.io/streak-stats">
+     <img src="https://streak-stats.demolab.com?user=faisalhafeez&hide_border=true" alt="GitHub Streak" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FaisalHafeez&count_private=true&include_all_commits=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
